@@ -14,21 +14,21 @@ Cette documentation vise à fournir des ressources claires et complètes sur les
 
 ### 3. Style et ton
 1. **Impersonnel** : Évitez le tutoiement direct ("vous", "votre", "tu")
-    - ❌ "Vous devez cliquer sur ce bouton"
-    - ✅ "Il est nécessaire de cliquer sur ce bouton"
+    - ✕ "Vous devez cliquer sur ce bouton"
+    - ✓ "Il est nécessaire de cliquer sur ce bouton"
 2. **Informatif, non prescriptif** : Présentez des informations, pas des instructions
-    - ❌ "Maintenant, allez dans les paramètres"
-    - ✅ "Les paramètres permettent de configurer..."
+    - ✕ "Maintenant, allez dans les paramètres"
+    - ✓ "Les paramètres permettent de configurer..."
 3. **Neutre et objectif** : Évitez les opinions et jugements
-    - ❌ "Cette fonctionnalité est géniale"
-    - ✅ "Cette fonctionnalité permet de..."
+    - ✕ "Cette fonctionnalité est géniale"
+    - ✓ "Cette fonctionnalité permet de..."
 
 ### 4. Captures d'écran
-1. ✅ Anonymisez toutes les informations personnelles
-2. ✅ Recadrez pour montrer uniquement l'élément pertinent
-3. ✅ Utilisez des noms de fichiers descriptifs (`config-serveur.png`, pas `image1.png`)
-4. ✅ Placez les images dans un dossier `/assets/images/`
-5. ❌ N'incluez pas de watermarks ou logos externes
+1. Anonymisez toutes les informations personnelles
+2. Recadrez pour montrer uniquement l'élément pertinent
+3. Utilisez des noms de fichiers descriptifs (`config-serveur.png`, pas `image1.png`)
+4. Placez les images dans un dossier `/assets/images/`
+5. N'incluez pas de watermarks ou logos externes
 
 ## Structure de la documentation
 La documentation est organisée en plusieurs sections:
@@ -44,30 +44,30 @@ docs-public/
 ## Contributions
 
 ### Acceptées
-✅ **Corrections** : Fautes d'orthographe, erreurs factuelles, liens cassés
-✅ **Améliorations** : Clarifications, reformulations, ajout d'exemples
-✅ **Nouveau contenu** : Articles, guides, tutoriels (après validation)
-✅ **Traductions** : Versions linguistiques alternatives
-✅ **Mises à jour** : Actualisation d'informations obsolètes
+- ✓ **Corrections** : Fautes d'orthographe, erreurs factuelles, liens cassés
+- ✓ **Améliorations** : Clarifications, reformulations, ajout d'exemples
+- ✓ **Nouveau contenu** : Articles, guides, tutoriels (après validation)
+- ✓ **Traductions** : Versions linguistiques alternatives
+- ✓ **Mises à jour** : Actualisation d'informations obsolètes
 
 ### Refusées
-❌ Contenu promotionnel ou publicitaire
-❌ Opinions personnelles ou contenus subjectifs
-❌ Tutoriels "pas à pas" trop détaillés (privilégier l'information générale)
-❌ Contenu non original sans crédit
-❌ Informations confidentielles ou sensibles
+- ✕ Contenu promotionnel ou publicitaire
+- ✕ Opinions personnelles ou contenus subjectifs
+- ✕ Tutoriels "pas à pas" trop détaillés (privilégier l'information générale)
+- ✕ Contenu non original sans crédit
+- ✕ Informations confidentielles ou sensibles
 
 ## Licence
 Cette documentation est distribuée sous licence [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](LICENSE).
 
 ### En bref, vous pouvez :
-- ✅ Copier et redistribuer le contenu
-- ✅ Modifier et adapter le contenu
-- ✅ Utiliser à des fins commerciales
+- ✓ Copier et redistribuer le contenu
+- ✓ Modifier et adapter le contenu
+- ✓ Utiliser à des fins commerciales
 
 ### À condition de :
-- ⚠️ Créditer LUNATIC-Studio comme source
-- ⚠️ Partager vos modifications sous la même licence
-- ⚠️ Indiquer si vous avez effectué des modifications
+- ⚠ Créditer LUNATIC-Studio comme source
+- ⚠ Partager vos modifications sous la même licence
+- ⚠ Indiquer si vous avez effectué des modifications
 
 *Le [README.md](../../README.md) ainsi que [contribuer.md](../../contribuer.md) s'appuie sur le travail réalisé du dépôt [discordfr/wiki](https://github.com/discordfr/wiki) (CC BY-SA 3.0), qui nous a servi de référence pour la rédaction et la structure, consulté le 14/10/2025.*
