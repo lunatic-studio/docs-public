@@ -26,7 +26,9 @@ Cette documentation vise à fournir des ressources claires et complètes sur les
 ### 4. Captures d'écran
 1. Anonymisez toutes les informations personnelles
 2. Recadrez pour montrer uniquement l'élément pertinent
-3. Utilisez des noms de fichiers descriptifs (`config-serveur.png`, pas `image1.png`)
+3. Utilisez des noms de fichiers descriptifs
+    - ✕ "image1.png"
+    - ✓ "config-serveur.png"
 4. Placez les images dans un dossier `/assets/images/`
 5. N'incluez pas de watermarks ou logos externes
 
