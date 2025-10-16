@@ -71,5 +71,3 @@ Cette documentation est distribuée sous licence [Creative Commons Attribution-S
 - ⚠ Créditer LUNATIC-Studio comme source
 - ⚠ Partager vos modifications sous la même licence
 - ⚠ Indiquer si vous avez effectué des modifications
-
-*Le [README.md](../../README.md) ainsi que [contribuer.md](../../contribuer.md) s'appuie sur le travail réalisé du dépôt [discordfr/wiki](https://github.com/discordfr/wiki) (CC BY-SA 3.0), qui nous a servi de référence pour la rédaction et la structure, consulté le 14/10/2025. Merci à eux ! ★*
